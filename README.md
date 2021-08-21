@@ -7,7 +7,6 @@
 - 👨‍💻 &nbsp; Learning more about Rest API, GraphQL, DevOps and Data Science.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<img width="25%" align="right" alt="Github" src="https://i.ibb.co/GCPjCQp/6tXM.gif" />
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
