@@ -9,7 +9,7 @@
 <h3> ⚙️ GH Stats </h3>
   
 <a href="https://github.com/brenortk">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=brenortk&theme=react&show_icons=true" style"max-width: 100%;" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=brenomoura13&theme=react&show_icons=true" style"max-width: 100%;" />
 </a>
 
 <br/>
