@@ -19,6 +19,6 @@
 <p align="center">
 
 <a href="breno.moura1305@outlook.com"><img alt="Email" src="https://img.shields.io/badge/breno.moura1305@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="discord.gg"> <img alt="Discord" src="https://img.shields.io/badge/Ristuki%235686-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/breno-de-moura-a99a49165/"> <img alt="Linkedin" src="https://img.shields.io/badge/Breno de Moura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 </p>
