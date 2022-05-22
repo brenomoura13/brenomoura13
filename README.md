@@ -13,6 +13,9 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
+   <a href="https://www.typescriptlang.org">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+   </a>
    <a href="https://nextjs.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
    </a>
@@ -30,6 +33,12 @@
    </a>
    <a href="https://sass-lang.com">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+   </a>
+   <a href="https://www.mongodb.com">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+   </a>
+   <a href="https://www.postgresql.org">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
    </a>
    <p align="center"> e muito mais.... </p>
 </p>
