@@ -1,5 +1,3 @@
-[![banner](./BRENO.jpg)](https://github.com/brenomoura13)
-
   <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
