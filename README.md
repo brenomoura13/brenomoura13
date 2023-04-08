@@ -40,7 +40,10 @@
    <a href="https://www.postgresql.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
    </a>
-   <p align="center"> e muito mais.... </p>
+   <a href="https://www.postgresql.org">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+   </a>
+   <p align="center"> e aprendendo muito mais.... </p>
 </p>
 
 <h4 align="center">
